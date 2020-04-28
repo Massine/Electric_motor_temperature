@@ -1,0 +1,11 @@
+The data comes from: https://www.kaggle.com/wkirgsn/electric-motor-temperature
+
+License and use:
+Please cite the following publications if you intend to use this dataset for your own publications:
+
+Deep Residual Convolutional and Recurrent Neural Networks for Temperature Estimation in Permanent Magnet Synchronous Motors:
+https://www.researchgate.net/publication/331982128_Deep_Residual_Convolutional_and_Recurrent_Neural_Networks_for_Temperature_Estimation_in_Permanent_Magnet_Synchronous_Motors
+Code available on wkirgsn github/deep-pmsm
+
+Empirical Evaluation of Exponentially Weighted Moving Averages for Simple Linear Thermal Modeling of Permanent Magnet Synchronous Machines:
+https://www.researchgate.net/publication/331976678_Empirical_Evaluation_of_Exponentially_Weighted_Moving_Averages_for_Simple_Linear_Thermal_Modeling_of_Permanent_Magnet_Synchronous_Machines
