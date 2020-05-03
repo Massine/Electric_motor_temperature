@@ -1,4 +1,2 @@
-# Electric_motor_temperature
-Implementation of machine learning models to predict the temperature of electric engine rotor
-
-test to import to Drive
+# Electric_motor_torque
+Implementation of machine learning models to predict the torque of an electric motor
