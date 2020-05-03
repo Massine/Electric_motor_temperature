@@ -1,4 +1,7 @@
 The data comes from: https://www.kaggle.com/graxlmaxl/identifying-the-physics-behind-an-electric-motor
 
+!kaggle datasets download -d graxlmaxl/identifying-the-physics-behind-an-electric-motor
+!ls
+
 License and use:
 TBC
