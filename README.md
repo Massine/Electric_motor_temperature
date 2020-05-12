@@ -5,7 +5,7 @@ Implementation of machine learning models to predict the temperature of an elect
 The detailed explanations could be found in the report: https://github.com/Massine/Electric_motor_temperature/blob/master/04_Reports/project_report.pdf
 
 ## Important instructions
-**the code was run on google colab with drive google mounted. Before running the code, some adjustments should be done**
+**The code was run on google colab with google drive mounted. Before running the code, some adjustments should be done**
 - If it is run locally
     - The cell bellow should be deleted before running the notebook
     ```python
