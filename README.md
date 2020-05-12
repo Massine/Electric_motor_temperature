@@ -7,17 +7,17 @@ The detailed explanations could be found in the report: https://github.com/Massi
 ## Important instructions
 **the code was run on google colab with drive google mounted. Before running the code, some adjustments should be done**
 -	If it is run locally: 
-..- the cell bellow should be deleted before running the notbook
+..* the cell bellow should be deleted before running the notbook
 ```python
 from google.colab import drive
 drive.mount('/content/gdrive')
 ```
-..- the paths should be updated according the fold structure. Example: the link bellow
+..* the paths should be updated according the fold structure. Example: the link bellow
 ```python
 df_raw=pd.read_csv('/content/gdrive/My Drive/Data Science/Electric_motor_temperature/01_Data/01_Raw/pmsm_temperature_data.csv') 
 ```
 -	If it is run on collab with google drive as a storing drive:
-..- The paths should be updated according to your folder structure
+..* The paths should be updated according to your folder structure
 
 ## Data
 The data comes from: https://www.kaggle.com/wkirgsn/electric-motor-temperature
